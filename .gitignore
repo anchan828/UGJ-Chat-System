@@ -1,0 +1,6 @@
+*.DS_Store
+UnityProject/*.csproj
+UnityProject/*.pidb
+UnityProject/*.sln
+UnityProject/ProjectSettings
+UnityProject/Library
